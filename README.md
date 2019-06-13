@@ -6,7 +6,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
 ### Relevant Links
 
-[![Picture4](https://user-images.githubusercontent.com/38989399/59462934-c2202780-8df2-11e9-9c2c-90c0c54d4f8e.png)](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/)  [![Picture2](https://user-images.githubusercontent.com/38989399/59463005-eb40b800-8df2-11e9-9bf3-509354dcfcdd.png)](https://github.com/ranjeetabh)
+[![Picture2](https://user-images.githubusercontent.com/38989399/59463616-6c4c7f00-8df4-11e9-94b8-0c01c94bf556.png)](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/)  [![Picture1](https://user-images.githubusercontent.com/38989399/59463646-84240300-8df4-11e9-9dda-f8efe1db2867.png)](https://github.com/ranjeetabh)
 
 ## Project Repositories
 
