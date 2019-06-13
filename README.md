@@ -4,6 +4,8 @@
 
 This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R) and relevant documentation of different projects explored and created as part of my master's program in Data Science. Github profile can be accessed from [here](https://github.com/ranjeetabh).
 
+Email: <ranjeeta.bhattacharya@rutgers.edu> 
+
 ## Project Repositories
 
 1) [Music Popularity Prediction](https://github.com/ranjeetabh/Hit_Song_Science_-Music_Popularity_Prediction-) 
