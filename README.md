@@ -1,6 +1,6 @@
-# ranjeetabh.github.io
+# [ranjeetabh.github.io](https://ranjeetabh.github.io)
 
-# Data Science Portfolio By Ranjeeta Bhattacharya
+## Data Science Portfolio By Ranjeeta Bhattacharya
 
 This portfolio is a complilation of Jupyter notebooks, standalone scripts and relevant documentation of different projects I explored and created as part of my master's program in Data Science.
 
@@ -10,11 +10,10 @@ This portfolio is a complilation of Jupyter notebooks, standalone scripts and re
 
 Project aimed at building a predictive model for popular music.
 
-2) Card-Games (Python scripts for playing popular card games)
+2) [Card-Games](https://github.com/ranjeetabh/Card-Games)
 
-https://github.com/ranjeetabh/Card-Games
+Python scripts for playing popular card games
 
-3) Explore_Million_Song_Subset (Python programming project aimed to programmatically explore subset of Million Song Dataset)
+3) [Explore_Million_Song_Subset](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
 
-https://github.com/ranjeetabh/Explore_Million_Song_Subset
-
+Python programming project aimed to programmatically explore subset of Million Song Dataset
