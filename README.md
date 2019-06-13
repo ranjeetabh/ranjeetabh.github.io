@@ -4,6 +4,8 @@
 
 This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R) and relevant documentation of different projects explored and created as part of my ongoing master's program in Data Science (Rutgers University, New Brunswick, New Jersey, 2018 - 2020). Github profile can be accessed from [Github](https://github.com/ranjeetabh). I can be reached at <ranjeeta.bhattacharya@rutgers.edu>.
 
+[<img width="58" alt="Screen Shot 2019-06-13 at 3 37 05 PM" src="https://user-images.githubusercontent.com/38989399/59462292-6ef9a500-8df1-11e9-9b69-fc5e81cff3a2.png">](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/) 
+
 
 ## Project Repositories
 
