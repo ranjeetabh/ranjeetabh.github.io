@@ -13,15 +13,19 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 1) [Music Popularity Prediction](https://github.com/ranjeetabh/Hit_Song_Science_-Music_Popularity_Prediction-) 
 
    - Project aimed at building a predictive model for popular music.
+   
+2) [Stock Market Data Analysis](https://github.com/ranjeetabh/Stock_Market_Data_Analysis)
 
-2) [Interactive Card Games](https://github.com/ranjeetabh/Card-Games)
+   - Project focussed on analysis of stock market data for a particular time interval.
+   
+3) [Interactive Card Games](https://github.com/ranjeetabh/Card-Games)
 
    - Python scripts for playing popular card games
 
-3) [Exploring Million Song Subset](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
+4) [Exploring Million Song Subset](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
 
    - Python programming project aimed to programmatically explore subset of Million Song Dataset
 
-4) [Web Scraping](https://github.com/ranjeetabh/Web-Scraping)
+5) [Web Scraping](https://github.com/ranjeetabh/Web-Scraping)
 
    - Scripts for scraping standalone web pages.
