@@ -2,7 +2,7 @@
 
 # Data Science Portfolio By Ranjeeta Bhattacharya
 
-This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R) and relevant documentation of different projects explored and created as part of my master's program in Data Science (Rutgers University, New Brunswick). Github profile can be accessed from [Github](https://github.com/ranjeetabh). I can be reached at [Email](<ranjeeta.bhattacharya@rutgers.edu>).
+This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R) and relevant documentation of different projects explored and created as part of my master's program in Data Science (Rutgers University, New Brunswick). Github profile can be accessed from [Github](https://github.com/ranjeetabh). I can be reached at <ranjeeta.bhattacharya@rutgers.edu>.
 
 
 ## Project Repositories
