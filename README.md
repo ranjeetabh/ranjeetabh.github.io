@@ -1,4 +1,4 @@
-# [ranjeetabh.github.io](https://ranjeetabh.github.io)
+# [ranjeetabh.github.io](https://github.com/ranjeetabh)
 
 ## Data Science Portfolio By Ranjeeta Bhattacharya
 
