@@ -1,5 +1,5 @@
-## Data Science Portfolio By Ranjeeta Bhattacharya
-# [Github](https://github.com/ranjeetabh)
+# Data Science Portfolio By Ranjeeta Bhattacharya
+## [Github](https://github.com/ranjeetabh)
 
 This portfolio is a complilation of Jupyter notebooks, standalone scripts(Python & R) and relevant documentation of different projects I explored and created as part of my master's program in Data Science.
 
