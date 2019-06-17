@@ -18,14 +18,18 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
    - Project focussed on analysis of stock market data for a particular time interval.
    
-3) [Interactive Card Games](https://github.com/ranjeetabh/Card-Games)
+3) [Clustering NBA Players](https://github.com/ranjeetabh/nba_players_clustering)
+
+   - Project aimed at building unsupervised machine learning model for grouping NBA players based on similar characteristics.
+   
+4) [Interactive Card Games](https://github.com/ranjeetabh/Card-Games)
 
    - Python scripts for playing popular card games
 
-4) [Exploring Million Song Subset](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
+5) [Exploring Million Song Subset](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
 
    - Python programming project aimed to programmatically explore subset of Million Song Dataset
 
-5) [Web Scraping](https://github.com/ranjeetabh/Web-Scraping)
+6) [Web Scraping](https://github.com/ranjeetabh/Web-Scraping)
 
    - Scripts for scraping standalone web pages.
