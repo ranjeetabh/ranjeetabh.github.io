@@ -12,7 +12,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
 1) [Music Popularity Prediction](https://github.com/ranjeetabh/Hit_Song_Science_-Music_Popularity_Prediction-) 
 
-   - Project aimed at building a predictive model for popular music.
+   - Project aimed at building a predictive model for popular music using various supervised machine learning techniques.
    
 2) [Stock Market Data Analysis](https://github.com/ranjeetabh/Stock_Market_Data_Analysis)
 
