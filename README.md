@@ -27,9 +27,9 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
    - Project aims to uncover the factors that lead to employee attrition/churn/turnover from a company, i.e gradual loss of    employees over a period of time
   
-5) [Text Mining Tech Talent (R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
+5) [Text Mining & Sentiment Analysis of Tech Talent Reviews(R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
 
-   - Text mining project aimed at comparing employee reviews of two major leading tech companies.
+   - Text mining project aimed at comparing employee reviews of two major leading tech companies along with performing sentiment analysis.
   
 6) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
 
