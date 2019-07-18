@@ -2,7 +2,7 @@
 
 # Data Science Portfolio By Ranjeeta Bhattacharya
 
-This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R) and relevant documentation of different projects explored and created as part of my ongoing master's program in Data Science (Rutgers University, New Brunswick, New Jersey, 2018 - 2020). 
+This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R), Tableau packaged workbooks and relevant documentation of different projects explored and created as part of my ongoing master's program in Data Science (Rutgers University, New Brunswick, New Jersey, 2018 - 2020). 
 
 ### Relevant Links:
 
@@ -14,31 +14,35 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
    - Project aimed at building a predictive model for popular music using various supervised machine learning techniques.
      Detailed project report can be accessed from [Project Report](https://github.com/ranjeetabh/Hit_Song_Science-Music_Popularity_Prediction/blob/master/Hit_Song_Science_Final_Merged_Report.pdf).
+     
+2) [The Big Apple Filming Trail (Tableau)](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail)
+
+   - Project aimed at visual exploration of filming statistics of NYC based on permit data made available at NYC Open Data portal.
       
-2) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
+3) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
 
    - Project aimed at building unsupervised machine learning model for grouping NBA players based on similar characteristics.
    
-3) [Stock Market Data Analysis (Python)](https://github.com/ranjeetabh/Stock_Market_Data_Analysis)
+4) [Stock Market Data Analysis (Python)](https://github.com/ranjeetabh/Stock_Market_Data_Analysis)
 
    - Project focussed on analysis of stock market data for a particular time interval.
 
-4) [Employee Churn Prediction (R)](https://github.com/ranjeetabh/Employee_Churn_Prediction)
+5) [Employee Churn Prediction (R)](https://github.com/ranjeetabh/Employee_Churn_Prediction)
 
    - Project aims to uncover the factors that lead to employee attrition/churn/turnover from a company, i.e gradual loss of    employees over a period of time
   
-5) [Text Mining & Sentiment Analysis of Tech Talent Reviews(R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
+6) [Text Mining & Sentiment Analysis of Tech Talent Reviews(R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
 
    - Text mining project aimed at comparing employee reviews of two major leading tech companies along with performing sentiment analysis.
   
-6) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
+7) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
 
    - Python scripts for playing popular card games
 
-7) [Exploring Million Song Subset (Python)](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
+8) [Exploring Million Song Subset (Python)](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
 
    - Python programming project aimed to programmatically explore subset of Million Song Dataset
 
-8) [Web Scraping (Python)](https://github.com/ranjeetabh/Web-Scraping)
+9) [Web Scraping (Python)](https://github.com/ranjeetabh/Web-Scraping)
 
    - Scripts for scraping standalone web pages.
