@@ -17,7 +17,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
      
 2) [The Big Apple Filming Trail (Tableau)](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail)
 
-   - Project aimed at visual exploration of filming statistics of NYC based on permit data made available at NYC Open Data portal.
+   - Project aimed at visual exploration of filming statistics of NYC based on permit data made available at NYC Open Data portal. Project overview report can be accessed from [Presentation Report](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail/blob/master/Final_Presentation.pdf). 
       
 3) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
 
