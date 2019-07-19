@@ -6,7 +6,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
 ### Relevant Links:
 
-[![Picture2](https://user-images.githubusercontent.com/38989399/59463768-b897bf00-8df4-11e9-9406-6b30955f7d8f.png)](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/)  [![Picture1](https://user-images.githubusercontent.com/38989399/59463885-ff85b480-8df4-11e9-98f8-e3b52259bbcf.png)](https://github.com/ranjeetabh)  [![Picture1](https://user-images.githubusercontent.com/38989399/59464298-0c56d800-8df6-11e9-99ac-00e589f2c5f0.png)](mailto:ranjeeta.bhattacharya@rutgers.edu) [![Picture1](Screen Shot 2019-07-19 at 11 27 39 AM](https://user-images.githubusercontent.com/38989399/61547301-1b463100-aa19-11e9-8ca4-ca6d389366a7.png)](https://public.tableau.com/profile/ranjeeta.bhattacharya#!/)
+[![Picture2](https://user-images.githubusercontent.com/38989399/59463768-b897bf00-8df4-11e9-9406-6b30955f7d8f.png)](https://www.linkedin.com/in/ranjeeta-bhattacharya-91177b5/)  [![Picture1](https://user-images.githubusercontent.com/38989399/59463885-ff85b480-8df4-11e9-98f8-e3b52259bbcf.png)](https://github.com/ranjeetabh)  [![Picture1](https://user-images.githubusercontent.com/38989399/59464298-0c56d800-8df6-11e9-99ac-00e589f2c5f0.png)](mailto:ranjeeta.bhattacharya@rutgers.edu) [![Picture1](https://user-images.githubusercontent.com/38989399/61547301-1b463100-aa19-11e9-8ca4-ca6d389366a7.png)](https://public.tableau.com/profile/ranjeeta.bhattacharya#!/)
 
 ## Project Repositories
 
