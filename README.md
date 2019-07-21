@@ -1,8 +1,8 @@
 <img width="188" alt="Screen Shot 2019-06-13 at 10 55 03 AM" src="https://user-images.githubusercontent.com/38989399/59447282-fda9fa00-8dd0-11e9-9c8b-75208eedaf0d.png"> <img width="325" alt="Screen Shot 2019-07-21 at 5 35 48 PM" src="https://user-images.githubusercontent.com/38989399/61597518-aa04aa80-abdf-11e9-82a3-b753645c41bf.png">
 
-# Data Science Portfolio By Ranjeeta Bhattacharya
+## Data Science Portfolio By Ranjeeta Bhattacharya
 
-This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R), Tableau packaged workbooks and relevant documentation of different projects explored and created as part of my ongoing master's program in Data Science (Rutgers University, New Brunswick, New Jersey, 2018 - 2020). 
+This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python & R), Tableau packaged workbooks and relevant documentation of different projects explored and created as part of my ongoing master's program in Data Science (Rutgers University, New Brunswick, New Jersey, 2018 - 2020).  
 
 ### Relevant Links:
 
