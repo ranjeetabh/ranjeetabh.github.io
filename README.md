@@ -1,4 +1,5 @@
-<img width="325" alt="Screen Shot 2019-07-21 at 5 35 48 PM" src="https://user-images.githubusercontent.com/38989399/61597518-aa04aa80-abdf-11e9-82a3-b753645c41bf.png"> <img width="188" alt="Screen Shot 2019-06-13 at 10 55 03 AM" src="https://user-images.githubusercontent.com/38989399/59447282-fda9fa00-8dd0-11e9-9c8b-75208eedaf0d.png"> 
+<img width="325" alt="Screen Shot 2019-07-21 at 5 35 48 PM" src="https://user-images.githubusercontent.com/38989399/61597518-aa04aa80-abdf-11e9-82a3-b753645c41bf.png"> <img width="188" alt="Screen Shot 2019-06-13 at 10 55 03 AM" src="https://user-images.githubusercontent.com/38989399/59447282-fda9fa00-8dd0-11e9-9c8b-75208eedaf0d.png"> <img width="235" alt="Screen Shot 2019-07-21 at 6 49 39 PM" src="https://user-images.githubusercontent.com/38989399/61598245-9f024800-abe8-11e9-857c-40020c45ad6f.png">
+
 
 ## Data Science Portfolio By Ranjeeta Bhattacharya
 
