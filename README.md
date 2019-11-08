@@ -35,15 +35,19 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 6) [Text Mining & Sentiment Analysis of Tech Talent Reviews (R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
 
    - Text mining project aimed at comparing employee reviews of two major leading tech companies along with performing sentiment analysis.
+
+7) [Anonymous Survey Response Analysis (Python , Tableau)](https://github.com/ranjeetabh/Survey_Analysis)
+
+   - Analysis of anonymous survey data collected from sexual assault victims. Brief project report can be accessed from [MeToo Story](https://github.com/ranjeetabh/Survey_Analysis/blob/master/MeToo_Story.pdf).
   
-7) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
+8) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
 
    - Python scripts for playing popular card games
 
-8) [Exploring Million Song Subset (Python)](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
+9) [Exploring Million Song Subset (Python)](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
 
    - Python programming project aimed to programmatically explore subset of Million Song Dataset
 
-9) [Web Scraping (Python)](https://github.com/ranjeetabh/Web-Scraping)
+10) [Web Scraping (Python)](https://github.com/ranjeetabh/Web-Scraping)
 
    - Scripts for scraping standalone web pages.
