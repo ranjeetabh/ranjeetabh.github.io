@@ -50,4 +50,4 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
 10) [Web Scraping (Python)](https://github.com/ranjeetabh/Web-Scraping)
 
-      - Scripts for scraping standalone web pages.
+   - Scripts for scraping standalone web pages.
