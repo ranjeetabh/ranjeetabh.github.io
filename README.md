@@ -23,7 +23,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
       
 3) [NYC 311 Service Request Analysis (PySpark)](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis)
 
-   - Big data project aimed at building PySpark application for analyzing NYC 311-service data. Project overview report can be    accessed from [Presentation Report](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis/blob/master/311_Analysis_Document.pdf). 
+   - Big data project aimed at building PySpark application for analyzing NYC 311 Service data. Project overview report can be    accessed from [Presentation Report](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis/blob/master/311_Analysis_Document.pdf). 
    
       
 4) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
