@@ -21,7 +21,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
    - Project aimed at visual exploration of filming statistics of NYC based on permit data made available at NYC Open Data portal. Project overview report can be accessed from [Presentation Report](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail/blob/master/Final_Presentation.pdf). 
    
       
-3) [NYC_311_Service_Request_Analysis (PySpark)](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis)
+3) [NYC 311 Service Request Analysis (PySpark)](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis)
 
    - Big data project aimed at building PySpark application for analyzing NYC 311-service data. Project overview report can be    accessed from [Presentation Report](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis/blob/master/311_Analysis_Document.pdf). 
    
