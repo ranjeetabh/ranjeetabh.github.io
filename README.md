@@ -42,7 +42,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
    - Text mining project aimed at comparing employee reviews of two major leading tech companies along with performing sentiment analysis.
 
-8) [Anonymous Survey Response Analysis (Python , Tableau)](https://github.com/ranjeetabh/Survey_Analysis)
+8) [Anonymous Survey Response Analysis (Python,Tableau)](https://github.com/ranjeetabh/Survey_Analysis)
 
    - Analysis of anonymous survey data collected from sexual assault victims. Brief project report can be accessed from [MeToo Story](https://github.com/ranjeetabh/Survey_Analysis/blob/master/MeToo_Story.pdf).
   
