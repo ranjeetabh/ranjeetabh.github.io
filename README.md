@@ -19,7 +19,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
           
 2) [Regression Analysis for PSA Level (R)](https://github.com/ranjeetabh/Regression_Analysis_PSA)
 
-   - Project aimed at building an inferential model to understand how prostate specific antigen (PSA) levels relate to factors that may determine prognosis and outcome. . Project overview report can be accessed from [Presentation Report](https://github.com/ranjeetabh/Regression_Analysis_PSA/blob/master/Final_Report_Analysis.pdf). 
+   - Project aimed at building an inferential model to understand how prostate specific antigen (PSA) levels relate to factors that may determine prognosis and outcome. Project overview report can be accessed from [Presentation Report](https://github.com/ranjeetabh/Regression_Analysis_PSA/blob/master/Final_Report_Analysis.pdf). 
    
 3) [NYC 311 Service Request Analysis (PySpark)](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis)
 
