@@ -16,41 +16,43 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
 
    - Project aimed at building a predictive model for popular music using various supervised machine learning techniques.
      Detailed project report can be accessed from [Project Report](https://github.com/ranjeetabh/Hit_Song_Science-Music_Popularity_Prediction/blob/master/Hit_Song_Science_Final_Merged_Report.pdf).
+          
+2) [Regression Analysis for PSA Level (R)](https://github.com/ranjeetabh/Regression_Analysis_PSA)
+
+   - Project aimed at building an inferential model to understand how prostate specific antigen (PSA) levels relate to factors that may determine prognosis and outcome. . Project overview report can be accessed from [Presentation Report](https://github.com/ranjeetabh/Regression_Analysis_PSA/blob/master/Final_Report_Analysis.pdf). 
+   
+3) [NYC 311 Service Request Analysis (PySpark)](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis)
+
+   - Big data project aimed at building PySpark application for analyzing NYC 311 Service data. Project overview report can be    accessed from [Project Report](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis/blob/master/311_Analysis_Document.pdf).
      
-2) [The Big Apple Filming Trail (Tableau)](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail)
+4) [The Big Apple Filming Trail (Tableau)](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail)
 
    - Project aimed at visual exploration of filming statistics of NYC based on permit data made available at NYC Open Data portal. Project overview report can be accessed from [Presentation Report](https://github.com/ranjeetabh/The_Big_Apple_Filming_Trail/blob/master/Final_Presentation.pdf). 
    
-      
-3) [NYC 311 Service Request Analysis (PySpark)](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis)
+5) [Anonymous Survey Response Analysis (Python,Tableau)](https://github.com/ranjeetabh/Survey_Analysis)
 
-   - Big data project aimed at building PySpark application for analyzing NYC 311 Service data. Project overview report can be    accessed from [Project Report](https://github.com/ranjeetabh/PySpark_NYC_311_Complaint_Analysis/blob/master/311_Analysis_Document.pdf). 
-   
-      
-4) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
+   - Analysis of anonymous survey data collected from sexual assault victims. Brief project report can be accessed from [MeToo Story](https://github.com/ranjeetabh/Survey_Analysis/blob/master/MeToo_Story.pdf).
+           
+6) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
 
    - Project aimed at building unsupervised machine learning model for grouping NBA players based on similar characteristics.
    
-5) [Stock Market Data Analysis (Python)](https://github.com/ranjeetabh/Stock_Market_Data_Analysis)
+7) [Stock Market Data Analysis (Python)](https://github.com/ranjeetabh/Stock_Market_Data_Analysis)
 
    - Project focussed on analysis of stock market data for a particular time interval.
 
-6) [Employee Churn Prediction (R)](https://github.com/ranjeetabh/Employee_Churn_Prediction)
+8) [Employee Churn Prediction (R)](https://github.com/ranjeetabh/Employee_Churn_Prediction)
 
    - Project aims to uncover the factors that lead to employee attrition/churn/turnover from a company, i.e gradual loss of    employees over a period of time
   
-7) [Text Mining & Sentiment Analysis of Tech Talent Reviews (R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
+9) [Text Mining & Sentiment Analysis of Tech Talent Reviews (R)](https://github.com/ranjeetabh/Text_Mining_Tech_Talent)
 
    - Text mining project aimed at comparing employee reviews of two major leading tech companies along with performing sentiment analysis.
-
-8) [Anonymous Survey Response Analysis (Python,Tableau)](https://github.com/ranjeetabh/Survey_Analysis)
-
-   - Analysis of anonymous survey data collected from sexual assault victims. Brief project report can be accessed from [MeToo Story](https://github.com/ranjeetabh/Survey_Analysis/blob/master/MeToo_Story.pdf).
   
-9) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
+10) [Interactive Card Games (Python)](https://github.com/ranjeetabh/Card-Games)
 
    - Python scripts for playing popular card games
 
-10) [Exploring Million Song Subset (Python)](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
+11) [Exploring Million Song Subset (Python)](https://github.com/ranjeetabh/Explore_Million_Song_Subset)
 
    - Python programming project aimed to programmatically explore subset of Million Song Dataset
