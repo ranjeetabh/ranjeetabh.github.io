@@ -31,7 +31,7 @@ This portfolio is a compilation of Jupyter notebooks, standalone scripts(Python 
    
 5) [Anonymous Survey Response Analysis (Python,Tableau)](https://github.com/ranjeetabh/Survey_Analysis)
 
-   - Analysis of anonymous survey data collected from sexual assault victims. Brief project report can be accessed from [MeToo Story](https://github.com/ranjeetabh/Survey_Analysis/blob/master/MeToo_Story.pdf).
+   - Analysis of anonymous survey data (mostly unstructured) collected from sexual assault victims. Brief project report can be accessed from [MeToo Story](https://github.com/ranjeetabh/Survey_Analysis/blob/master/MeToo_Story.pdf).
            
 6) [Clustering NBA Players (Python)](https://github.com/ranjeetabh/nba_players_clustering)
 
